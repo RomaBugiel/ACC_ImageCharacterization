@@ -1,3 +1,8 @@
+desktop.ini
+__pycache__/
+*.pt
+data/
+
 
 # Ignore Python cache and virtual environments
 __pycache__/
